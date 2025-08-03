@@ -18,6 +18,9 @@ tqdm>=4.66.3
 ultralytics>=8.2.64  # https://ultralytics.com
 # protobuf<=3.20.1  # https://github.com/ultralytics/yolov5/issues/8012
 
+# Video I/O ------------------------------------------------------------------
+av==11.0.0  # video I/O
+
 # Logging ---------------------------------------------------------------------
 # tensorboard>=2.4.1
 # clearml>=1.2.0
